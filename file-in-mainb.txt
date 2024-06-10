@@ -1,0 +1,5 @@
+Now main branch is created from a master branch.
+ Master:
+    |->main
+
+This is the data in the main branch only
